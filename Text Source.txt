@@ -1,0 +1,268 @@
+--------------------------Hover-------------------------------
+Hover 1: .animal toy 1:    H2: An adorable sheep    P: One of the most cute sheep doll is in sale now! Get it ASAP!    P: Price : $20 -> $15    A: View Details.animal toy 2:   H2: A cute parrot   P: Look at this cute parrot! This can be your best friend! Do not miss it!   P: Price : $17 -> $12   A; View Details.animal toy 3:    H2: Cute hedgehogs   P: Cute hedgehogs are waiting for you! Do not miss this chance!    P: Price : $25 -> $21   A; View Details
+Hover 2:
+ .New Arrivals
+ .Spring Collection
+ .Autumn Collection
+ .Special offers
+ .Trends
+
+
+Hover 3:
+ .Mars
+Mars is a fourth planet in our galaxy and one of four terrestrial planets. It is named as "Mars" based on the god of war, the characteristic of early Rome.  
+Read More 
+
+.Jupiter
+Jupiter is the fifth planet in our galaxy and the largest planet in the Solar system. It is more than twice as massive as all the other planets combined.
+Read More 
+
+.Saturn
+Saturn is the sixth planet from the Sun and the second-largest in the Solar system, after Jupiter. It is a massive ball made mostly of hydrogen and helium.
+Read More
+
+
+
+--------------------------------Protocol--------------------------------
+Protocol-01:
+Uploads made easy
+Use Spotify for Artists to upload your releases. With previews and simple edits, you can control exactly how your music appears to listeners.
+
+Make release day count
+Let the world know about your music. With Spotify for Artists, you can submit to playlists and update your profile to reflect your new sound.
+
+Get your royalties, fast
+Recording royalties? Publishing royalties? Matt and Kim, Sheryl Crow, and Cienfue weigh in on the importance of royalties
+
+Make Spotify yours
+180 million fans are waiting for you. Sign up to Spotify for Artists and make the most of your music.
+
+The Best Advice
+Rapper and savvy business helps Rick Ross gets straight to the point when it comes to the best advice he's ever received.
+
+
+Protocol-08:
+The best protein powder
+Nature Zen
+Protein is an essential macronutrient that helps build muscle, repair tissue, and make enzymes and hormones. 
+
+The most nutrient grains
+Kim's food
+Hemp seeds have magnesium, which helps regulate your heartbeat and prevents coronary heart disease. 
+
+One of the best vegetables
+Nature Farm
+Tomatoes, containing vitamin C and potassium, are an antioxidant lycopene, which has many health benefits for heart disease and cancer. 
+
+-----------------------------------Javascript--------------------------------------
+Javascript1:
+The Ocean 
+The best team for your house interior
+Lorem(number)
+Alexandria, Director
+Jane, Associate Designer
+Austin, Interior Designer
+Jonathan, Manager
+
+
+Javascript7:
+Galaxy Z Flip 3
+A New Generation Everyone Seeks Is Here!
+
+A Good Thing Just Got Better
+Folds into your pocket. Tucks into your purse. Slips into your skinniest jeans. Then you can take it out and it flips open into a full-screened 5G smartphone and flexes to your favorite angles.
+
+Amazing Things Happen, Even On The Small Screen
+Check messages, take photos, play music and so much more, all without opening your phone. The 1.9-inch Cover Screen displays notifications and lets you intuitively interact with them.
+
+Knowing Your Angles Just Got Easier
+Capturing Single Take moments has changed for the better. Now you can take photos and videos more easily than you ever could before with Flex mode. All you have to do is adjust the angle and step back for hands-free selfies.
+
+Doing Double At The Same Time
+Split your screen in two and multitask like a pro. You can catch up on your YouTube playlist and text your friend — then send off a stunning selfie and watch the reactions roll in. And when you're watching something, let the sound immerse you with Dolby Atmos and stereo speakers.
+
+
+Javascript8:
+Logo: KIM'S FAMILY
+Focus, Strength, And Will
+You Can Do It!
+Don’t be afraid of failure. This is the way to succeed. You dream. You plan. You reach. There will be obstacles. There will be doubters. There will be mistakes. But with hard work, with belief, with confidence and trust in yourself and those around you, there are no limits. You must not only have competitiveness but ability, regardless of the circumstance you face, to never quit.
+
+Shop Now 
+Learn More
+
+Anniversary
+70
+
+About US
+Women's Shoes
+Men's Shoes
+Women's Active Wear
+Men's Active Wear
+
+
+----------------------------------WEB SITE--------------------------------
+---------------car Wanted------------------
+.news-issues)
+
+Fuel economy standards in flux
+ICE vehicles will still be on the roads for a while. Accordingly, fuel economy standards will remain an important consideration for automakers and regulators.
+
+Automakers place big bets on all-electric fleets and batteries
+The rising popularity of electric vehicles (EVs) and plug-in hybrids has far-reaching implications for their supply chains and operations.        
+Moreover, they may need to seek alternatives to current lithium-ion batteries, for reasons of cost and material availability. 
+
+Semiconductor shortage puts pressure on automotive supply chains
+Shortage of semiconductors is a big issue now. These chips are important to the microcontroller units that underpin everything from the transmission to the airbags in modern vehicles. Without sufficient supply, automakers like GM were forced to extend plant shutdowns into March 2021.
+
+Negative Effects of Automobile
+A heavy automotive use includes the use of non-renewable fuels, the emission of air and noise pollution, the emission of greenhouse gases, generation of urban sprawl and traffic.
+
+Polar bears are in danger now
+The climate change is melting and fragmenting sea ice across the Arctic, forcing more pregnant females to make their dens on land instead. In addition, new oil and gas exploration and drilling threaten vulnerable polar bear populations.
+
+Artificial Intelligence-New generation is coming
+AI improves user experience, enable faster innovation cycles, and enhance the entire workflow in manufacturing and maintenance. AI-powered solutions can collect and process enormous amounts of vehicle data, provide actionable insights, and increase privacy and data security.
+
+----------SubPage: Technology-------
+Connected Mobile Apps/Digital Key
+Our cell phones are a key part of our lives, so it makes perfect sense for carmakers to take advantage of smartphone capability. Most carmakers offer connected smartphone apps, but some are better than others. The most advanced ones let you remotely lock and unlock the doors, check the status of fuel level and tire pressure, and even remotely start the car – which is especially nice on a cold winter’s morning. The digital key has extra security measures built in that tie only your phone to your car.
+
+360-Degree Camera
+While rear cross-traffic assist helps to avoid collisions when backing out of a parking space or driveway, a 360-degree camera can make sure you don’t hit anything while you’re parking. Not only can this keep your car scratch- and dent-free, but it can reduce insurance claims from low-speed crashes. This camera is a great help when parking a large vehicle. By combining cameras on every side of the car with some clever tech, your car’s display can show a virtual top-down view of your surroundings. It can show the sides of your garage or whether you’re between the parking lines at the grocery store. It can also provide invaluable assistance while parallel parking.
+
+Video Rearview Mirror
+Have you ever had to come back from a supply run with so much stuff in your car’s interior that it blocks the rear window, making the rearview mirror useless? A video rearview mirror uses a rear-mounted camera to display the view behind the car. This type of mirror is in the same spot as the traditional mirror and is the same size, but you can toggle between the mirror view or the video setting when you want to use it.
+
+---------SubPage: Green------------
+GHG Emissions
+Greenhouse gas emissions are often measured in carbon dioxide (CO2) equivalent. To convert emissions of a gas into CO2 equivalent, its emissions are multiplied by the gas's Global Warming Potential (GWP). The GWP takes into account the fact that many gases are more effective at warming Earth than CO2, per unit mass.
+Many of fuels, depending on how they are produced, reduce overall emissions of CO2 into the atmosphere relative to gasoline. In fact, operating a vehicle exclusively on electricity or hydrogen releases no harmful GHG emissions from your vehicle’s tailpipe! The amount of GHGs emitted when the fuel is produced depends on the source of the fuel. For example, generating electricity from coal creates far more emissions than electricity generated from renewable sources like wind.
+
+Electric & Plug-In Hybrid Electric Vehicles
+Electric vehicles (EVs) produce no tailpipe emissions and have a battery instead of a gasoline tank, and an electric motor instead of an internal combustion engine. Plug-in hybrid electric vehicles (PHEVs) are a combination of gasoline and electric vehicles, so they have a battery, an electric motor, a gasoline tank, and an internal combustion engine. PHEVs use both gasoline and electricity as fuel sources.
+
+Hydrogen Fuel Cell Vehicles
+Hydrogen Fuel Cell Vehicles (FCVs) are similar to electric vehicles (EVs) in that they use an electric motor instead of an internal combustion engine to power the wheels. However, while EVs run on batteries that must be plugged in to recharge, FCVs generate their electricity onboard. In a fuel cell, hydrogen (H2) gas from the vehicle’s fuel tank combines with oxygen (O2) from the air to generate electricity with only water and heat as byproducts of the process. Overall, FCVs are zero-emission vehicles – they have no smog-related or greenhouse gas tailpipe emissions. Emissions are created in the process of producing and transporting hydrogen fuel. 
+
+---------SubPage: Safety-----------
+Advanced Driver Assist Systems
+Several automakers offer technology that can quickly react to hazards, reduce driver fatigue, and make life easier in traffic. It will even park the car for you. These systems often come in bundled suites, such as Ford’s Co-Pilot360, Subaru’s EyeSight, and Toyota Safety Sense, but many are also standalone options.
+Adaptive cruise control Keeps your vehicle at a set speed but slows down or accelerates to keep a safe distance from the car in front of you.
+Lane departure warning: Alerts you when your car is drifting into another lane.
+Lane-keep assist: Uses steering to keep your car in the lane.
+Blind-spot alert: Lets you know when there’s a car in your blind spot.
+Cross-traffic alert: If you’re backing out of a parking space or driveway, this will let you know if there is cross traffic. Some systems show from which direction the other car is coming.
+Reverse brake assist: If it senses an object behind your car while backing up, reverse brake assist can stop your car to avoid an accident.
+
+Automatic Emergency Braking
+When the car senses that a collision is imminent, Automatic Emergency Braking (AEB) activates your car’s brakes, potentially avoiding or minimizing an accident. AEB can react faster than a person and can start working before you hit the brakes. If you are braking and it senses you need to stop sooner, AEB can also brake harder than the pressure you’re applying. While AEB is part of many advanced driver assist systems, this is an essential system that may be a standalone feature, and it should be considered a high priority. Up to 20 manufacturers have committed to making AEB standard across their vehicle lines by September 1, 2022.
+
+Exit Warning to Protect Cyclists
+Riding a bike is a constant challenge in the city. Riders have to be as concerned with parked cars as they are with the moving vehicles. A feature that helps riders and drivers alike is the exit warning. The alert uses rear-looking sensors to detect approaching bicycles and traffic. That ensures that a passenger doesn’t open a car door just as a cyclist comes by.
+Exit warning systems work for several minutes after the engine shut-off. If the sensors see an approaching bicyclist or vehicle, they alert the passenger with a series of bright lights. The most advanced systems will physically lock the door to prevent it from being swung open into the path of the approaching object.
+
+The Most Safe Automobile For Infants
+We do care not only for technical safety but also care for human. All the drivers feel comfortable and safety when their cars drive smooth without any danger. The cars' safety is particularly more important for drivers having infants. The most they care is how much their cars are strong than design. For these, we provide essential but verified systems, strong and persistent parts, and well-made design.  
+
+The Best First Car For Beginners And Young Drivers
+A new car for first time drivers should be cheap, reliable, well-equipped, and easy to drive and safe. When you drive the new car first time as a beginner, you will be exciting
+but nervous. An accident will be happened without your willing while driving as well. What beginners and young drivers need is a car having easy control systems, warning systems like sensors, and smart A.I programs to protect drivers.   
+
+
+---------------------------homeFood-------------------------
+-Html:
+1)“Main Homepage Part”
+.hf-container 
+    header
+       .hf-heading
+          .hf-logo
+          input/placeholder
+          .hf-icon(location, bags, etc..)
+       .hf-navigation-inner
+           .hf-navigation
+               a<.div(About)>
+               a<.div(Beauty)>
+                  ul
+                      li<.Cosmetic>
+                      li<.Hair>
+               a<.div(Healthy)>
+                  ul
+                      li<.Food>
+                      li<.Snack>
+                      li<.Beverage>
+                      li<.Supplements>    
+               a<.div(Kids)>
+                  ul  
+                      li<.Infant>
+                      li<.Kid>
+               a<.div(Pet)>
+                  ul
+                       li<.Food>
+                       li<.Items>
+   .hf-main-inner (Use slick slider)
+       .img (4~5) 
+       h2
+       hf-main-inner-span (with -> icons)
+   
+   .hf-coming-soon-inner
+       H4
+       .img and details (shopping in 새로운 출시 part in “dm.de" and 쇼핑몰-물건 판매 모양 만드는 강의 부분 참고)
+   .hf-issue-inner (use slick slider)
+       H5
+       .img (5-6)
+       .hf-issue-text (.div)
+   .hf-trend-inner 
+       h6
+       .img(4)
+       .hf-trend-text (.div)
+   .hf-service-inner
+        H7  
+        .hf-service-icon-inner (copy 10 of this including this one)
+            .hf-service-icon-container
+                .hf-service-icon-box
+                     .img(icon)
+                .hf-service-icon-test
+Footer
+
+2) “Beauty, Kid, Pet parts are similar; huge main image and then add shopping items like shopping-mall website”
+   
+Html:
+   .hf-beauty-container (use “Grid” format)
+       .hf-beauty-inner (Use slick slider)
+           .img (4~5) 
+           h2
+           hf-beauty-inner-span (with -> icons)
+    
+      .hf-new-beauty-inner
+           H4
+           .img and details (shopping in 새로운 출시 part in “dm.de" and 쇼핑몰-물건 판매 모양 만드는 강의 부분 참고)
+     .hf-all-beauty-inner
+           H5
+           .img and details (shopping in 새로운 출시 part in “dm.de" and 쇼핑몰-물건 판매 모양 만드는 강의 부분 참고)
+
+3) “Healthy” part
+
+Html:
+   .hf-healthy-container (use “Grid” format)
+       .hf-healthy-inner (Use slick slider)
+            .img (4~5) 
+            h2
+            hf-healthy-inner-span (with -> icons)
+       .hf-all-healthy-inner
+            H4
+            .img and details (shopping in 새로운 출시 part in “dm.de" and 쇼핑몰-물건 판매 모양 만드는 강의 부분 참고)
+       .hf-healthy-vegan-inner (use slick slider)
+            H5
+            .hf-vegan-inner (copy 6 of this including this one)
+                 .img
+                 <b>
+                 .hf-vegan-span
+       .hf-healthy-tips-inner (use “Grid” format)
+            H6
+            .hf-tips-inner (copy 10 of this including this one)
+                 .img
+                 <b>
+                 .hf-tips-span
+
+

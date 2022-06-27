@@ -1,0 +1,97 @@
+/* Google Web Font */
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+/* Fontawesome 4.7 */
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+/* Default CSS */
+body {
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.5em;
+  font-weight: 300;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #222;
+}
+a {
+  text-decoration: none;
+  color: #222;
+}
+
+.login {
+  width: 600px;
+  background-color: #f5f5f5;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  padding: 25px;
+  box-sizing: border-box;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+}
+.login span {
+  font-weight: bold;
+  display: block;
+  margin-top: 15px; 
+  margin-left: 1px; 
+}
+.login input[type=email],
+.login input[type=password] {
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  transition: 0.25s;
+  padding-left: 45px;
+}
+.login input[type=email]:hover,
+.login input[type=password]:hover {
+  border: 1px solid dodgerblue;
+  box-shadow: 0 0 5px dodgerblue;
+}
+.login input[type=email] {
+  background:#fff url(/Images/prototype/email-icon-image.png) no-repeat center left 10px;
+}
+.login input[type=password] {
+  background: #fff url(/Images/prototype/lock-icon-image.png) no-repeat center left 10px;
+}
+.login input[type=email]::placeholder,
+.login input[type=password]::placeholder {
+  opacity: 1;
+  transition: 0.25s;
+}
+.login input[type=email]:focus::placeholder,
+.login input[type=password]:focus::placeholder {
+  opacity: 0;
+  visibility: hidden;
+}
+.login p {
+  overflow: hidden;
+  margin-top: 20px;
+}
+.login p label {
+  float: left;
+  cursor: pointer;
+}
+.login p a {
+  float: right;
+}
+.login p a:hover {
+  text-decoration: underline;
+}
+.login button {
+  background-color: #2c9cbe;
+  width: 200px;
+  padding: 6px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  font-size: 17.5px;
+  transition: 0.25s;
+  margin-top: 5px;
+}
+.login button:hover {
+  background-color: #287286;
+}

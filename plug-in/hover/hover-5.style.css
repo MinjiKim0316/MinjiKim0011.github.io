@@ -1,0 +1,111 @@
+/* Google Web Font */
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+/* Default CSS */
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #222;
+  line-height: 1.5em;
+  font-weight: 300;
+  margin: 0;
+}
+a {
+  color: #222;
+  text-decoration: none;
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+a.btn1,
+a.btn2,
+a.btn3,
+a.btn4,
+a.btn5 {
+  position: relative;
+  padding-bottom: 7px;
+  font-size: 25px;
+  display: block;
+  margin-bottom: 20px;
+}
+
+/* a.btn1 */
+a.btn1:before {
+  content: '';
+  position: absolute;
+  background-color: orangered;
+  height: 3.5px;
+  width: 0;
+  bottom: 0;
+  transition: 0.5s;
+  left: 0;
+}
+a.btn1:hover:before {
+  width: 100%;
+}
+
+/* a.btn2 */
+a.btn2:before {
+  content: '';
+  position: absolute;
+  background-color: orangered;
+  height: 3.5px;
+  width: 0;
+  bottom: 0;
+  transition: 0.5s;
+  right: 0;
+  }
+a.btn2:hover:before {
+  width: 100%;
+  }
+
+/* a.btn3 */
+a.btn3:before {
+  content: '';
+  position: absolute;
+  background-color: orangered;
+  height: 5px;
+  width: 5px;
+  bottom: 0;
+  transition: 0.5s;
+  left: 0; 
+}
+a.btn3:hover:before {
+  left: calc(100% - 4px);
+}
+
+/* a.btn4 */
+a.btn4:before {
+  content: '';
+  position: absolute;
+  background-color: orangered;
+  height: 3.5px;
+  width: 0;
+  bottom: 0;
+  transition: 0.5s;
+  left: 50%;
+  transform: translateX(-50%);
+}
+a.btn4:hover:before {
+  width: 100%;
+}
+
+/* a.btn5 */
+a.btn5:before {
+  content: '';
+  position: absolute;
+  background-color: orangered;
+  height: 3.5px;
+  width: 100%;
+  bottom: 0;
+  transition: 0.5s;
+  left: 50%;
+  transform: translateX(-50%);
+}
+a.btn5:hover:before {
+  width: 0;
+}

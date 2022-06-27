@@ -1,0 +1,109 @@
+/* Google Web Font */
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+/* Fontawesome 4.7 */
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+/* Default CSS */
+
+* {
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+  outline: none;
+}
+body {
+  font-size: 14px;
+  background-color: #fff;
+  line-height: 1.5em;
+  color: #222;
+  font-weight: 300;
+}
+a {
+  text-decoration: none;
+  color: #222;
+}
+
+/* Reset CSS */
+input, select {
+  cursor: pointer;
+}
+
+/* Member Sign in */
+.member {
+  width: 550px;
+  margin: auto;
+  padding: 0 20px;
+}
+.member .logo {
+  height: 70px;
+  display: block;
+  margin: 20px auto;
+}
+.member .span {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.field.name div {
+  display: flex;
+  gap: 7px;
+}
+.field.name div:first-child {
+  flex: 1;
+}
+.field.name div:last-child {
+  flex: 1;
+}
+.field {
+  /* border: 1px solid #000; */
+  margin: 5px 0;
+}
+.field b {
+  display: block;
+  font-weight: 500;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+.field input, .field select {
+  border: 1px solid #dadada;
+  background-color: #f5f4f4;
+  padding: 10px;
+  width: 90%;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+.field input:focus, .field select:focus {
+  border: 1px solid gold;
+}
+.field.birth div {
+  display: flex;
+  gap: 10px;
+}
+.field.birth div:nth-child(1) {
+  flex: 2;
+}
+.field.birth div:nth-child(2) {
+  flex: 1;
+}
+.field.birth div:nth-child(3) {
+  flex: 1;
+}
+.policy p {
+  text-align: center;
+  width: 90%;
+  margin-left: 20px;
+  margin-top: 25px;
+  margin-bottom: 32px;
+}
+.policy p em {
+  font-style: normal;
+  text-decoration: underline;
+}
+.member .signup input{
+  background-color: gold;
+  border: 1px solid gold;
+  border-radius: 50px;
+  padding: 10px;
+  font-weight: bold;
+  margin-left: 190px;
+}
