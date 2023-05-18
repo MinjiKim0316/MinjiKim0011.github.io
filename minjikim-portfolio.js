@@ -109,3 +109,6 @@ const observerCallback = (entries, observer) => {
 
 const observer = new IntersectionObserver(observerCallback, observerOptions);
 sections.forEach(section => observer.observe(section));
+
+
+
