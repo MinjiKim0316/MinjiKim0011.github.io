@@ -6,7 +6,7 @@ import { HiMoon, HiSun } from 'react-icons/hi';
 export default function Header({filters, filter, onFilterChange}) {
   const {darkMode, toggleDarkMode} = useDarkMode();
   return <Header className={styles.header}>
-    <button onClick={toggleDarkMode}>
+    <button onClick={toggleDarkMode} className={styles.toggle}>
       {!darkMode && <HiMoon/>}
       {darkMode && <HiSun/>}
     </button>
