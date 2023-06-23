@@ -135,6 +135,9 @@
     padding: 0 50px;
     border: none;
   }
+  .k-about-exp-title {
+    background-color: rgb(216, 184, 184);
+  }
   .k-about-ela-items {
     width: 100%;
     display: block;
@@ -188,6 +191,8 @@
   }
   .skillset-tools {
     height: auto;
+    border-bottom: none;
+    border-bottom-color: none;
   }
   .tools-item1,
   .tools-item2,
