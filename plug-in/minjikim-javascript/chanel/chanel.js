@@ -3,7 +3,7 @@ let windowObjectReference = null;
 
 function openRequestedPopup(url, chanelUser) {
   if(windowObjectReference == null || windowObjectReference.closed) {
-    windowObjectReference = window.open("/plug-in/chanel/chanel_user/chanel_user.html", chanel-user, "popup");
+    windowObjectReference = window.open("/chanel_user/chanel_user.html", chanel-user, "popup");
   } else {
     windowObjectReference.focus();
   };

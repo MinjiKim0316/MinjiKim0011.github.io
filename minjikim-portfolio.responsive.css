@@ -36,6 +36,7 @@
   }
   .k-about-inner {
     height: auto;
+    margin-top: -50px;
   }
   .k-about-box {
     flex-direction: column;
@@ -171,7 +172,7 @@
   }
   #k-skills {
     height: auto;
-    margin-top: 70px;
+    margin-top: 50px;
   }
   .k-skills-text {
     width: 100%;
@@ -184,10 +185,23 @@
     width: 100%;
     height: auto;
   }
+  .skills {
+    display: grid;
+    grid-auto-flow: row;
+  }
   .skill-item1,
   .skill-item2,
-  .skill-item3 {
+  .skill-item3,
+  .skill-item4,
+  .skill-item5 {
     width: 90%;
+    height: auto;
+  }
+  .skill-item1,
+  .skill-item2,
+  .skill-item3,
+  .skill-item4 {
+    border-bottom: 10px solid #fff;
   }
   .skillset-tools {
     height: auto;
@@ -196,11 +210,13 @@
   }
   .tools-item1,
   .tools-item2,
+  .tools-item3,
   .etc-item {
     width: 90%;
   }
   #k-work {
     height: auto;
+    margin-top: -50px;
   }
   .k-work-categories {
     margin-top: 30px;
