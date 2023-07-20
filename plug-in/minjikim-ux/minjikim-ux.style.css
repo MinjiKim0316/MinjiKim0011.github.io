@@ -15,25 +15,25 @@ a {
   text-decoration: none;
 }
 
-.figma-container {
+.ux-container {
   width: 1200px;
   height: 100vh;
   margin: auto;
 }
-.figma-container h1 {
+.ux-container h1 {
   text-align: center;
   font-size: 45px;
   padding: 10px 0;
   margin-bottom: -20px;
   color: white;
 }
-.k-figma-close {
+.k-ux-close {
   float: right;
   font-size: 70px;
   color: white;
   margin-top: -60px;
 }
-.figma-projects {
+.ux-projects {
   width: 1200px;
   margin: auto;
   margin-top: 50px;
@@ -43,7 +43,7 @@ a {
   opacity: 1;
   transition: all 0.5s ease-out;
 }
-.k-figma {
+.k-ux {
   position: relative;
   display: flex;
   justify-content: center;
@@ -53,12 +53,12 @@ a {
   margin: 5px;
   background-color: rgb(236, 236, 235);
 }
-.k-figma img {
+.k-ux img {
   max-width: 100%;
   max-height: 100%;
   align-self: center;
 }
-.k-figma-description {
+.k-ux-description {
   position: absolute;
   background-color: #000;
   display: flex;
@@ -72,14 +72,14 @@ a {
   transform: translateY(10px);
   transition: all 0.2s ease-in;
 }
-.k-figma:hover .k-figma-description {
+.k-ux:hover .k-ux-description {
   opacity: 0.8;
   transform: translateY(0px);
 }
-.k-figma-description h3 {
+.k-ux-description h3 {
   color: white;
 }
-.k-figma-description h3:after {
+.k-ux-description h3:after {
   content: '';
   display: block;
   position: relative;
@@ -90,22 +90,22 @@ a {
   margin-top: 8px;
   background-color: whitesmoke;
 }
-.k-figma-description span {
+.k-ux-description span {
   color: white;
   text-align: center;
   padding: 0 10px;
 }
-.k-figma-description span b {
+.k-ux-description span b {
   color: yellow;
 }
 
 @media screen and (max-width: 768px){
-  .figma-container {
+  .ux-container {
     width: 100%;
     height: auto;
     margin: auto;
   }
-  .figma-projects {
+  .ux-projects {
     width: 100%;
     margin: auto;
     margin-top: 50px;
@@ -114,11 +114,11 @@ a {
     justify-content: center;
     align-items: center;
   }
-  .k-figma {
+  .k-ux {
     position: relative;
     flex-direction: column;
   }
-  .k-figma-description {
+  .k-ux-description {
     position: absolute;
     background-color: #000;
     flex-direction: column;
@@ -131,12 +131,12 @@ a {
     transform: translateY(10px);
     transition: all 0.2s ease-in;
   }
-  .k-figma img {
+  .k-ux img {
     max-width: 100%;
     max-height: auto;
     align-self: center;
   }
-  .k-figma-close {
+  .k-ux-close {
     margin-right: 20px;
   }
 }
