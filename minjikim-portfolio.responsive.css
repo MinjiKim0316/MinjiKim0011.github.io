@@ -34,145 +34,128 @@
     padding: 16px;
     padding-top: 50px;
   }
+  #k-about {
+    background-color: rgb(255, 255, 255);
+  }
   .k-about-inner {
+    padding: 0;
     height: auto;
-    margin-top: -50px;
+    width: 100%;
+    margin-left: 0px;
+  }
+  .k-about-inner h1 {
+    padding-top: 47px;
+    margin: auto;
   }
   .k-about-box {
+    display: flex;
     flex-direction: column;
     width: 100%;
     height: auto;
-  }
-  .k-about-edu {
-    width: 100%;
-    border: none;
-    margin-left: 0;
-  }
-  .k-about-edu-title {
-    width: 100%;
-    margin-left: 0;
-  }
-  .k-edu-items {
-    width: 100%;
-    margin: auto;
-    flex-direction: column;
-    align-items: center;
-    height: auto;
-  }
-  .k-about-edu-colleges {
-    height: auto;
-    /* margin-top: 20px; */
-    margin: auto;
-    width: 100%;
-  }
-  .k-college-year,
-  .k-college2-year,
-  .k-college-name,
-  .k-college2-name,
-  .k-college-degree,
-  .k-college2-degree,
-  .k-college-gpa,
-  .k-college2-gpa {
-    font-size: 17px;
-    padding: 17px 7px;
-  }
-  .k-college2-year {
-    margin-top: 15px;
-  }
-  .k-college2-name {
-    margin-left: -5px;
-  }
-  .k-about-edu-awards {
-    width: 100%;
-    flex-direction: column;
-    align-items: center;
-  }
-  .k-about-edu-awards h3 {
-    top: 0%;
-    left: 5%;
-    /* transform: translateX(40%); */
-    transform: translateY(-100%);
-    margin-left: 90px;
-  }
-  .k-awards-items {
-    flex-direction: column;
-    width: 100%;
-    margin-left: 0;
-  }
-  .k-awards-year-name,
-  .k-awards-year {
-    width: 100%;
-    padding: 8.5px 20px;
-    margin: 0;
-    margin-left: 0;
-    font-size: 17px;
-  }
-  .k-awards-year-name {
-    margin-top: 50px;
-  }
-  .k-awards-list-item {
-    font-size: 14px;
-    /* float: right; */
-    width: 100%;
-  }
-  .k-awards-list-name,
-  .k-awards-list {
-    width: 100%;
-    padding: 9px 10px;
-    margin: 0 10px;
-    margin-left: 0px;
-    font-size: 17px;
-  }
-  .k-about-exp-title {
-    width: 100%;
-    /* margin-left: 0px; */
-    background-color: rgb(204, 201, 201);
+    border: 1px solid transparent;
     margin-top: 20px;
-    transform: translateX(0%);
   }
-  .k-about-exp {
-    margin-left: 0px;
+  .k-about-ux {
+    flex-basis: 50%;
+    flex-direction: column;
+  }
+  .k-about-ux-title {
+    border: 1px solid transparent;
     width: 100%;
-    padding: 0 50px;
-    border: none;
-  }
-  .k-about-exp-title {
     background-color: rgb(216, 184, 184);
+    border-radius: 25px;
   }
-  .k-about-ela-items {
-    width: 100%;
-    display: block;
+  .k-about-ux-title h2 {
+    font-size: 22px;
+  }
+  .k-about-ux-content {}
+  .k-about-ux-exp {
+    margin: auto;
+    border: 2px solid rgb(216, 184, 184);
+    border-radius: 25px;
+    margin-top: 25px;
+  }
+  .k-about-ux-exp-content {
+    text-align: center;
+  }
+  .k-about-ux-items {
+    background-color: #fff;
+  }
+  .k-ux {
+    font-size: 14px;
+  }
+  .k-ux-name {
+    padding: 0.3rem;
+  }
+  .k-ux-name-p {
+    padding: 0.3rem;
+    margin: 0;
+  }
+  .k-about-design {
+    flex-basis: 50%;
     margin-left: 0px;
-    border: none;
+  }
+  .k-about-design-title {
+    border: 1px solid transparent;
+    width: 100%;
+    background-color: rgb(216, 184, 184);
+    border-radius: 25px;
+    font-size: 15px;
+    margin-top: 30px;
+  }
+  .k-about-exp-title h2 {}
+  .k-about-ela-content {}
+  .k-about-ela-items,
+  .k-about-sea-items {
+    background-color: #fff;
+    border: 2px solid rgb(216, 184, 184);
+    border-radius: 25px;
+    margin-top: 25px;
+    height: auto;
   }
   .k-ela-company,
   .k-sea-company {
     width: 100%;
   }
+  .k-ela-year,
+  .k-sea-year {
+    margin-top: 10px;
+  }
+  .k-ela-year,
   .k-ela-name,
-  .k-ela-name-p,
+  .k-ela-name-p {
+    font-size: 14px;
+  }
+  .k-ela-year,
+  .k-ela-name,
+  .k-sea-year,
   .k-sea-name {
-    width: 100%;
-    margin: auto;
-    margin-left: 0px;
-    font-size: 17px;
+    padding: 0.3rem;
   }
   .k-ela-name-p {
     padding: 2px 10px;
-    margin-top: 2px;
-    margin-bottom: 10px;
-    width: 100%;
-    margin-left: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .k-sea-year,
+  .k-sea-name,
+  .k-sea-name-p {
+    /* border: 1px solid rgb(216, 184, 184); */
+    background-color: #fff;
+    font-size: 14px;
+  }
+  .k-sea-name4 {
+    padding: 40px 5px;
   }
   .k-sea-name-p {
-    margin-top: -40px;
-    width: 100%;
-    margin-left: 0px;
-    font-size: 17px;
+    margin-top: -25px;
+    margin-bottom: -27px;
+    padding: 2px 20px;
+    border: none;
   }
   #k-skills {
+    background-color: rgb(248, 158, 158);
     height: auto;
-    margin-top: 50px;
   }
   .k-skills-text {
     width: 100%;
