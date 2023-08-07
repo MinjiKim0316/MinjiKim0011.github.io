@@ -477,6 +477,9 @@ button {
   max-height: 100%;
   align-self: center;
 }
+#k-work-projects-ux {
+  max-height: 70%;
+}
 .k-project-description {
   position: absolute;
   background-color: #000;
