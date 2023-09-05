@@ -15,25 +15,25 @@ a {
   text-decoration: none;
 }
 
-.wandm-container {
+.swift-container {
   width: 1200px;
   height: 100vh;
   margin: auto;
 }
-.wandm-container h1 {
+.swift-container h1 {
   text-align: center;
   font-size: 45px;
   padding: 30px 0;
   margin-bottom: -20px;
   color: white;
 }
-.k-wandm-close {
+.k-swift-close {
   float: right;
   font-size: 70px;
   color: white;
   margin-top: -80px;
 }
-.wandm-projects {
+.swift-projects {
   width: 1200px;
   margin: auto;
   margin-top: 120px;
@@ -43,7 +43,7 @@ a {
   opacity: 1;
   transition: all 0.5s ease-out;
 }
-.k-wandm {
+.k-swift {
   position: relative;
   display: flex;
   justify-content: center;
@@ -53,12 +53,12 @@ a {
   margin: 5px;
   background-color: rgb(236, 236, 235);
 }
-.k-wandm img {
+.k-swift img {
   max-width: 100%;
   max-height: 100%;
   align-self: center;
 }
-.k-wandm-description {
+.k-swift-description {
   position: absolute;
   background-color: #000;
   display: flex;
@@ -72,14 +72,14 @@ a {
   transform: translateY(10px);
   transition: all 0.2s ease-in;
 }
-.k-wandm:hover .k-wandm-description {
+.k-swift:hover .k-swift-description {
   opacity: 0.8;
   transform: translateY(0px);
 }
-.k-wandm-description h3 {
+.k-swift-description h3 {
   color: white;
 }
-.k-wandm-description h3:after {
+.k-swift-description h3:after {
   content: '';
   display: block;
   position: relative;
@@ -90,22 +90,22 @@ a {
   margin-top: 8px;
   background-color: whitesmoke;
 }
-.k-wandm-description span {
+.k-swift-description span {
   color: white;
   text-align: center;
   padding: 0 10px;
 }
-.k-wandm-description span b {
+.k-swift-description span b {
   color: yellow;
 }
 
 @media screen and (max-width: 768px){
-  .wandm-container {
+  .swift-container {
     width: 100%;
     height: auto;
     margin: auto;
   }
-  .wandm-projects {
+  .swift-projects {
     width: 100%;
     margin: auto;
     margin-top: 120px;
@@ -114,14 +114,14 @@ a {
     justify-content: center;
     align-items: center;
   }
-  .wandm-container h1 {
+  .swift-container h1 {
     text-align: center;
     font-size: 30px;
     padding: 30px 0;
     margin-bottom: -100px;
     color: white;
   }
-  .k-wandm-close {
+  .k-swift-close {
     float: right;
     font-size: 65px;
     color: white;
