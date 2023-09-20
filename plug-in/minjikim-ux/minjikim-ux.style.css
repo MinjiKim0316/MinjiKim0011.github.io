@@ -22,8 +22,8 @@ a {
 }
 .ux-container h1 {
   text-align: center;
-  font-size: 45px;
-  padding: 20px 0;
+  font-size: 47px;
+  padding: 30px 0;
   margin-bottom: -20px;
   color: white;
 }
@@ -31,12 +31,84 @@ a {
   float: right;
   font-size: 70px;
   color: white;
-  margin-top: -60px;
+  margin-top: -75px;
+}
+.ux-research {
+  border: 1px solid white;
+  border-radius: 0.2rem;
+  background-color: white;
+  width: 1000px;
+  height: 2700px;
+  margin: auto;
+  margin-top: 70px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+}
+.ux-research h1 {
+  color: rgb(102, 27, 27);
+  text-align: center;
+  font-size: 2.5rem;
+}
+.ux-research-steps {
+  margin-top: -400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.ux-research-step1,
+.ux-research-step2,
+.ux-research-step3 {
+  border: 1px solid whitesmoke;
+  background-color: whitesmoke;
+  width: 900px;
+  border-radius: 0.3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.ux-research-step1 span b,
+.ux-research-step2 span b,
+.ux-research-step3 span b {
+  font-size: 1.1rem;
+}
+.ux-research-step1 h3 {
+  color: #661b1b;
+  position: relative;
+  margin: auto 30px;
+  font-size: 1.5rem;
+  padding-top: 30px;
+}
+.ux-research-step1 p,
+.ux-research-step3 p {
+  margin: 30px 30px;
+}
+.ux-research-step2 {
+  margin-top: 50px;
+}
+.ux-research-step2 h3 {
+  color: #661b1b;
+  margin: auto 30px;
+  font-size: 1.5rem;
+  padding-top: 30px;
+}
+.ux-research-step2 img {
+  margin: 20px 70px;
+}
+.ux-research-step3 {
+  margin-top: 50px;
+}
+.ux-research-step3 h3 {
+  color: #661b1b;
+  margin: auto 30px;
+  font-size: 1.5rem;
+  padding-top: 30px;
 }
 .ux-projects {
   width: 1200px;
   margin: auto;
-  margin-top: 160px;
+  margin-top: 50px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -48,9 +120,9 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 250px;
-  height: 250px;
-  margin: 5px;
+  width: 300px;
+  height: 300px;
+  margin: 23px;
   background-color: rgb(215, 215, 215);
 }
 .k-ux img {
