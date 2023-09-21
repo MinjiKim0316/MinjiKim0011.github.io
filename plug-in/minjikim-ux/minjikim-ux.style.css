@@ -33,12 +33,13 @@ a {
   color: white;
   margin-top: -75px;
 }
-.ux-research {
+.ux-research,
+.ux-sketch {
   border: 1px solid white;
   border-radius: 0.2rem;
   background-color: white;
   width: 1000px;
-  height: 2700px;
+  height: 2800px;
   margin: auto;
   margin-top: 70px;
   display: flex;
@@ -46,13 +47,17 @@ a {
   justify-content: center;
   position: relative;
 }
-.ux-research h1 {
+.ux-sketch {
+  height: 1700px;
+}
+.ux-research h1,
+.ux-sketch1 h1 {
   color: rgb(102, 27, 27);
   text-align: center;
   font-size: 2.5rem;
 }
 .ux-research-steps {
-  margin-top: -400px;
+  margin-top: -100px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -83,6 +88,7 @@ a {
 .ux-research-step1 p,
 .ux-research-step3 p {
   margin: 30px 30px;
+  line-height: 1.3rem;
 }
 .ux-research-step2 {
   margin-top: 50px;
@@ -105,10 +111,16 @@ a {
   font-size: 1.5rem;
   padding-top: 30px;
 }
+.ux-sketch1 img {
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 90%;
+  width: 100%;
+}
 .ux-projects {
   width: 1200px;
   margin: auto;
-  margin-top: 50px;
+  margin-top: 40px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -122,7 +134,7 @@ a {
   align-items: center;
   width: 300px;
   height: 300px;
-  margin: 23px;
+  margin: 25px;
   background-color: rgb(215, 215, 215);
 }
 .k-ux img {
