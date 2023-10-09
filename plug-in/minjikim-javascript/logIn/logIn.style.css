@@ -1,0 +1,46 @@
+.logIn-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: salmon;
+  position: relative;
+}
+.logIn-box {
+  position: absolute;
+  top: 20%;
+  left: 35%;
+  border: 1px solid whitesmoke;
+  border-radius: 0.5rem;
+  background-color: whitesmoke;
+  width: 450px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.logIn {
+  width: 300px;
+  height: 40px;
+  text-align: center;
+  margin-bottom: 20px;
+  cursor: pointer;
+  border-radius: 0.3rem;
+  border: 1px solid darkgray;
+  font-size: 1.1rem;
+}
+.logIn:hover {
+  border: 2px solid salmon;
+}
+.btn {
+  width: 305px;
+  height: 40px;
+  background-color: salmon;
+  cursor: pointer;
+  border-color: salmon;
+  border-radius: 0.3rem;
+  font-size: 1.1rem;
+}
+.btn:hover {
+  background-color: rgb(252, 6, 47);
+  color: white;
+}
